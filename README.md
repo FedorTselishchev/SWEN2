@@ -1,5 +1,5 @@
 # SWEN2
-Collectie van opdracht van het vak SWEN2
+Collectie van opdrachten van het vak SWEN2
 
 Fedor Tselishchev & Dylan van De Laar
 
